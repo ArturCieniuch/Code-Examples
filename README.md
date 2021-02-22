@@ -8,7 +8,7 @@ Some of projects that I worked on:
 - Kiosk for optical salon.
 - https://aji.digital/en - A modular interactive display application.
 - https://store.steampowered.com/app/1464030/Building_Mogul_Online/ - A building management tycoon.
-- 
+
 Work prototypes that I worked on but didn't pan out: 
 - A Tricky Towers clone with multiplayer for mobile phones
 - A digitization of a board game Okanagan
