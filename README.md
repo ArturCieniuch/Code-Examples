@@ -4,6 +4,7 @@ A few examples of my code and other thing.
 
 Newest prototype of my Vampire Survivors inspired game
 https://github.com/ArturCieniuch/StarSurvivor
+Inside this repo there is also small prototype project named Theft Test
 
 Some of projects that I worked on:
 - Green Hell PCVR: https://store.steampowered.com/app/1782330/Green_Hell_VR/
