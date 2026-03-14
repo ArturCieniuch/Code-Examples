@@ -5,7 +5,7 @@ demonstrating my approach to Unity development.
 
 ## Personal Projects
 
-### [StarSurvivor](https://github.com/ArturCieniuch/StarSurvivor)
+### [StarSurvivor](https://github.com/ArturCieniuch/StarSurvivors2D)
 A Vampire Survivors inspired prototype built in Unity.
 
 ### Stealth Prototype
